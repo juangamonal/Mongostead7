@@ -5,10 +5,14 @@ Use the following command:
 
 * PHP 7.0
 
-`sudo curl -sS https://raw.githubusercontent.com/zakhttp/Mongostead7/master/mongoHomestead7.sh | sudo sh`
+`sudo curl -sS https://raw.githubusercontent.com/juangamonal/Mongostead7/master/mongoHomestead7.sh | sudo sh`
 
 * PHP 7.1
 
-`sudo curl -sS https://raw.githubusercontent.com/zakhttp/Mongostead7/master/mongoHomestead7.1.sh | sudo sh`
+`sudo curl -sS https://raw.githubusercontent.com/juangamonal/Mongostead7/master/mongoHomestead7.1.sh | sudo sh`
+
+* PHP 7.4
+
+`sudo curl -sS https://raw.githubusercontent.com/juangamonal/Mongostead7/master/mongoHomestead7.4.sh | sudo sh`
 
 Cheers!
